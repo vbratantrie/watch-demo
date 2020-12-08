@@ -1,2 +1,2 @@
 # watch-demo
-as watching instruction of Gwendolyn Faraday
+as watching instruction of GwenF
